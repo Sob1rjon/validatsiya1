@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    margin: 0 auto;
+    width: 1100px;
+}
+.pro_value{
+    background: none;
+    font-size: 2rem;
+    margin-left: 80px;
+    margin-top: 40px;
+    background: black;
+    padding: 10px 0;
+    caret-color: red;
+    color: white;
+    border-radius: 1px;
+}
+
+.pro_upper {
+    max-width: 300px;
+    height: 20px;
+    background: red;
+    border-radius: 50px;
+    margin: 40px auto;
+}
+
+.pro_dollar {
+    max-width: 300px;
+    height: 20px;
+    background: red;
+    border-radius: 50px;
+    margin: 40px auto;
+}
+
+.pro_number {
+    max-width: 300px;
+    height: 20px;
+    background: red;
+    border-radius: 50px;
+    margin: 40px auto;
+}
+
+.palansaeg{
+    background: green;
+    border: 3px ridge green;
+}
+
+.upp{
+    background: green;
+}
+    .num{
+        background: green;
+        border: 3px ridge green;
+    }
